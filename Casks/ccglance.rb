@@ -1,6 +1,6 @@
 cask "ccglance" do
-  version "1.17.0"
-  sha256 "27144e071de7faf5bf390410b08088588873899be128eec466edb1af45869338"
+  version "1.17.1"
+  sha256 "154e114f6bfcc3d36a2ccd43cc3dd213f093a7920694b67ea40fc061b02971a3"
 
   url "https://github.com/hatoya/ccglance/releases/download/v#{version}/ccglance.zip"
   name "ccglance"
